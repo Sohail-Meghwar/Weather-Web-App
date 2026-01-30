@@ -68,7 +68,7 @@ Weather-App/
 1. Clone the repository
 
    ```
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/Sohail-Meghwar/Weather-Web-App.git
    ```
 
 2. Open the project in **Eclipse** or **NetBeans**.
